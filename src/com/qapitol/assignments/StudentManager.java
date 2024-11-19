@@ -68,5 +68,6 @@ public class StudentManager {
             }
         }while(choice!=3);
 
+        System.out.println("");
     }
 }
