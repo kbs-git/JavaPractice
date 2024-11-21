@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a6c1cd5-ccbe-4314-8fe3-1d250fe678fc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2p0qkF97XuSKSLhxgsFHQzhLgYh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AmstrongNumber.executor": "Run",
+    "Application.AreaOfRectangle.executor": "Run",
+    "Application.ArraySort.executor": "Run",
+    "Application.BreakAndContinue.executor": "Run",
+    "Application.Caluculator.executor": "Run",
+    "Application.CoinFlip.executor": "Run",
+    "Application.EvenSkip.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.JavaSimpleProgram.executor": "Run",
+    "Application.LargestOfThreeNumbers.executor": "Run",
+    "Application.ListOpertaion.executor": "Run",
+    "Application.Manager.executor": "Run",
+    "Application.MapOprations.executor": "Run",
+    "Application.Multiplication.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PrimeNumbers.executor": "Run",
+    "Application.QaeueOpration.executor": "Run",
+    "Application.QueueOpration.executor": "Run",
+    "Application.SetOprations.executor": "Run",
+    "Application.StackOprations.executor": "Run",
+    "Application.StudentManager.executor": "Run",
+    "Application.SumOfArray.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.VoterProgram.executor": "Run",
+    "Application.com.qapitol.javaPractice.Caluculator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "kavya",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Qapitol QA/IdeaProjects/Automation/JavaPractice",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Manager">
+    <configuration name="Manager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qapitol.collections.controller.Manager" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qapitol.collections.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapOprations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qapitol.collectionExample.MapOprations" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qapitol.collectionExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueOpration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qapitol.collectionExample.QueueOpration" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qapitol.collectionExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetOprations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qapitol.collectionExample.SetOprations" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qapitol.collectionExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackOprations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qapitol.collectionExample.StackOprations" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qapitol.collectionExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Manager" />
+      <item itemvalue="Application.MapOprations" />
+      <item itemvalue="Application.QueueOpration" />
+      <item itemvalue="Application.SetOprations" />
+      <item itemvalue="Application.StackOprations" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Manager" />
+        <item itemvalue="Application.MapOprations" />
+        <item itemvalue="Application.SetOprations" />
+        <item itemvalue="Application.QueueOpration" />
+        <item itemvalue="Application.StackOprations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a6c1cd5-ccbe-4314-8fe3-1d250fe678fc" name="Changes" comment="" />
+      <created>1731913484080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731913484080</updated>
+    </task>
+    <servers />
+  </component>
+</project>
